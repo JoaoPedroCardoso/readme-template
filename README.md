@@ -1,5 +1,10 @@
 # {project-name}
 
+My guidelines are:
+> Document in english
+
+> Document as minimum as possible, documentation is hard to maintain, if you can document it with the test suite, just do it!
+
 (if available put here badges like quality, build)
 
 Add here a brief description of the project, what it’s intent, what kind of problems it solves, what kinds it doesn’t. Add here too if he has a tight dependency at another project.
